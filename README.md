@@ -1,1 +1,2 @@
-# freecodecamp-infosec
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
